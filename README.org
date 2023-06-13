@@ -1,0 +1,10 @@
+* repl-utilities
+
+Ease common tasks at the REPL.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/m-n/repl-utilities.git   |
+| commit  | 7e300df  |
+| systems | repl-utilities |
+|---------+-------------------------------------------|
+
